@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Sign In with Climatiq
+Comment=
+Icon=user-bookmarks
+URL=https://auth.climatiq.io/login?state=hKFo2SB0bzdvbVZqbFNqaEZoQzhMdUZGQ2JRVi10TWpicy1sQqFupWxvZ2luo3RpZNkgOWtWNllURnlWcE44dTllUC1jeEdual9iQ0lRSFZJaUejY2lk2SB4YUZPelhha3M4TmRwdkRUdDVIQjZCSWJTd2dlNFFVQw&client=xaFOzXaks8NdpvDTt5HB6BIbSwge4QUC&protocol=oauth2&scope=openid%20profile%20email&response_type=code&redirect_uri=https%3A%2F%2Fapp.climatiq.io%2Fapi%2Fauth%2Fcallback&nonce=Pzaqs2Y36vGSA5PNZcOEcp8tUbdo6dziitHXlTsfMio&code_challenge_method=S256&code_challenge=SXLRmztViIM6uUhh1nyZX0TH98nO8aY2ZhRwrLi6VBM\r
